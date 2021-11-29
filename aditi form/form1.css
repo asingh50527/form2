@@ -1,0 +1,26 @@
+input{
+    width: 300px;
+    padding: 20px;
+    border: 1px solid pink;
+    margin: 10px 0;
+    color: red;
+    transition: all 4s;
+
+}
+
+input{
+    width: 20%;
+
+    border: none;
+    border-bottom: 2px solid pink;
+  
+
+
+}
+input:foucs{
+    outline: none;
+    width: 90%;
+}
+textarea{
+    resize: none;
+}
